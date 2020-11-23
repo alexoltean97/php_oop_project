@@ -2,189 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1ee3d12-8a6c-4385-a35b-bc13eaa32c37" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/css/bootstrap-rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/css/bootstrap-rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/css/plugins/morris.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/css/sb-admin-rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/css/sb-admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/less/spinning.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/scss/_spinning.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/includes/admin_content.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/includes/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/includes/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/includes/sidebar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/includes/top_nav.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/js/plugins/flot/excanvas.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/js/plugins/flot/flot-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/js/plugins/flot/jquery.flot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/js/plugins/flot/jquery.flot.pie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/js/plugins/flot/jquery.flot.resize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/js/plugins/flot/jquery.flot.tooltip.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/js/plugins/morris/morris-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/js/plugins/morris/morris.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/js/plugins/morris/morris.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/js/plugins/morris/raphael.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/_large_image_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/_large_image_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/_large_image_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/_large_image_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/image-1 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/image-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-1 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-10 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-11 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-12 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-13 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-14 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-15 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-16 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-17 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-18 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-19 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-2 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-20 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-21 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-22 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-23 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-24 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-25 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-26 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-27 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-28 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-29 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-3 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-30 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-31 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-32 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-33 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-34 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-35 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-36 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-37 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-38 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-39 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-4 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-40 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-41 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-42 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-43 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-44 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-5 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-50 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-50.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-6 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-7 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-8 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-9 copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_pictures/images_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/blog-home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/blog-post.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/navigation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/sidebar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/users.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/admin_content.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/includes/admin_content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/includes/sidebar.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -207,17 +27,17 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+            <state relative-caret-position="252">
+              <caret line="14" column="47" selection-end-line="27" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin_content.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="admin_content.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/includes/admin_content.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="378">
+              <caret line="21" lean-forward="true" selection-end-line="23" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -225,8 +45,17 @@
       <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/includes/sidebar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+            <state relative-caret-position="252">
+              <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/users.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -250,9 +79,10 @@
       <list>
         <option value="$PROJECT_DIR$/includes/navigation.php" />
         <option value="$PROJECT_DIR$/admin/includes/top_naV.php" />
-        <option value="$PROJECT_DIR$/admin/includes/sidebar.php" />
         <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/admin/includes/sidebar.php" />
         <option value="$PROJECT_DIR$/admin/includes/admin_content.php" />
+        <option value="$PROJECT_DIR$/admin/users.php" />
       </list>
     </option>
   </component>
@@ -266,10 +96,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="329" />
-    <option name="y" value="-25" />
+    <option name="x" value="223" />
+    <option name="y" value="-24" />
     <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="height" value="1052" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -340,18 +170,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606128222517</updated>
-      <workItem from="1606128223586" duration="1185000" />
+      <workItem from="1606128223586" duration="1911000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1606129503479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606129503479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1185000" />
+    <option name="totallyTimeSpent" value="1911000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="756" y="70" width="1400" height="1006" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -378,6 +216,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/car_pictures/images-6.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -398,22 +240,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/includes/sidebar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        <state relative-caret-position="252">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        <state relative-caret-position="252">
+          <caret line="14" column="47" selection-end-line="27" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/includes/admin_content.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/users.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
         </state>
       </provider>
     </entry>
