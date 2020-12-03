@@ -1,6 +1,6 @@
 <?php
 
-function __autoload($class){
+function classAutoLoader($class){
 
 
     $class = strtolower($class);
@@ -18,3 +18,5 @@ function __autoload($class){
     }
 
 }
+
+spl_autoload_register('classAutoLoader');
