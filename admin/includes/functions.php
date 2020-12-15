@@ -20,3 +20,9 @@ function classAutoLoader($class){
 }
 
 spl_autoload_register('classAutoLoader');
+
+
+function redirect($location){
+    header("Location: {$location}");
+
+}
