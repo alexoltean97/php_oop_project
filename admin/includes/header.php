@@ -2,14 +2,7 @@
 <?php require_once("init.php");?>
 
 
-<?php
 
-if(!$session->is_signed_in()){
-
-    header("Location: login.php");
-}
-
-?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -25,7 +18,7 @@ if(!$session->is_signed_in()){
     <title>SB Admin - Bootstrap Admin Template</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="css/sb-admin.css" rel="stylesheet">

@@ -1,11 +1,10 @@
-<?php require_once("includes/init.php");?>
-
+<?php require_once("includes/header.php");?>
 
 <?php
 
 if($session->is_signed_in()){
 
-    redirect("index.php");
+    header("index.php");
 
 }
 
@@ -20,7 +19,7 @@ if(isset($_POST['submit'])) {
 
     if($user_found){
         $session->login($user_found);
-        redirect("index.php");
+        header("index.php");
     } else  {
         $the_message = "Your password or username are incorect";
     }
@@ -28,7 +27,7 @@ if(isset($_POST['submit'])) {
 
 ?>
 
-<div class="col-md-4 col-md-offset-5">
+<div class="col-md-4 col-md-offset-3">
    <form action="" method="post">
        <div class="form-group">
            <label for="username">Username</label>

@@ -6,6 +6,7 @@ class Session {
 
     private $signed_in = false;
     public $user;
+    public $user_id;
 
     function __construct(){
         session_start();
@@ -44,6 +45,8 @@ class Session {
             $this->signed_in = false;
         }
     }
+
+
 }
 
 $session = new Session();
